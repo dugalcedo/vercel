@@ -1,8 +1,7 @@
 <script>
+    export let data
+    console.log(data);
 
 </script>
-
-<a href="/">home</a><br>
-<a href="/about">about</a>
 
 <slot></slot>
